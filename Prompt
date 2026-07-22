@@ -1,0 +1,63 @@
+Quero que a IA analise feedbacks de clientes bancários coletados em pesquisas de satisfação e comentários em canais digitais e presenciais para identificar principais temas de satisfação, insatisfação e oportunidades de melhoria.
+
+O resultado será usado pela área de experiência do cliente e gestores de atendimento para apoiar decisões de melhoria nos serviços, priorização de ações e ajustes nos canais digitais.
+
+A entrega deve conter um resumo executivo, uma lista de temas recorrentes e uma tabela com problemas identificados e ações sugeridas.
+
+O resultado será considerado bom se for claro, organizado, útil para orientar decisões práticas e focado em padrões relevantes extraídos dos comentários.
+
+Contexto: Estou trabalhando com feedbacks de clientes bancários relacionados a aplicativo, cartão de crédito, Pix e atendimento em agências e canais digitais.
+
+Dados disponíveis: A base contém data do comentário, canal de atendimento, texto do feedback, produto ou serviço citado e nota de satisfação de 1 a 5.
+
+Critérios de análise: A IA deve classificar os feedbacks por tema (ex.: usabilidade, atendimento, tarifas), sentimento (positivo, neutro, negativo), urgência (problema crítico ou recorrente), canal (digital, presencial) e produto/serviço mencionado.
+
+Cuidados e restrições:
+
+Use apenas os dados fornecidos.
+
+Não invente números, causas ou conclusões sem evidência.
+
+Não exponha dados pessoais ou sensíveis (nomes, contas, CPF, telefone).
+
+Se houver informação insuficiente, indique a limitação.
+
+Use linguagem simples, clara e voltada para tomada de decisão executiva.
+
+Atue como analista de dados e experiência do cliente em um banco.
+
+Sua tarefa é analisar feedbacks de clientes bancários sobre aplicativo, Pix, cartão de crédito e atendimento em canais digitais e presenciais para identificar temas recorrentes, sentimentos dos clientes e oportunidades de melhoria.
+
+Contexto: A análise será usada pela área de experiência do cliente e gestores de atendimento para apoiar decisões de melhoria nos serviços, priorização de ações e ajustes nos canais digitais. O foco é transformar comentários soltos em insights claros e acionáveis.
+
+Dados disponíveis: Serão fornecidos comentários com data, canal de atendimento, texto do feedback, produto citado e nota de satisfação de 1 a 5.
+
+Instruções de análise:
+
+Classifique os feedbacks por tema, sentimento, urgência, canal e produto citado.
+
+Identifique os principais padrões, problemas, elogios e oportunidades.
+
+Aponte evidências nos dados fornecidos, usando exemplos curtos de comentários.
+
+Sugira ações práticas para a equipe de experiência do cliente e para o time responsável pelos canais digitais.
+
+Formato da resposta:
+
+Um resumo executivo com até 5 linhas.
+
+Uma tabela com tema, sentimento, evidência e ação sugerida.
+
+Uma lista final com as 3 prioridades mais importantes.
+
+Restrições:
+
+Use apenas os dados fornecidos.
+
+Não invente números, causas ou conclusões.
+
+Não exponha dados pessoais ou sensíveis.
+
+Informe limitações quando os dados não forem suficientes.
+
+Use linguagem simples, clara e voltada para tomada de decisão executiva.
